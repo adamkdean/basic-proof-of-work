@@ -1,3 +1,4 @@
+![line-graph (7)](https://user-images.githubusercontent.com/1639527/110132148-c6f4ee00-7dc2-11eb-8ec4-dce1346f35cd.png)
 # basic-proof-of-work
 Basic Proof of Work (PoW) procedure
 
@@ -105,7 +106,7 @@ count: 4295599
 
 ### Proof of Work (PoW) Solve Time
 
-![Proof of Work (PoW) Solve Time](https://user-images.githubusercontent.com/1639527/110132070-afb60080-7dc2-11eb-89f6-cb2fc405cbeb.png)
+![Proof of Work (PoW) Solve Time](https://user-images.githubusercontent.com/1639527/110132161-ca887500-7dc2-11eb-9ee3-478d1ee759f0.png)
 
 ### Proof of Work (PoW) Solve Iterations
 
