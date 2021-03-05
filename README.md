@@ -105,8 +105,9 @@ count: 4295599
 
 ### Proof of Work (PoW) Solve Time
 
-![Proof of Work (PoW) Solve Time](https://user-images.githubusercontent.com/1639527/110131490-1850ad80-7dc2-11eb-883a-125c7960c360.png)
+![Proof of Work (PoW) Solve Time](https://user-images.githubusercontent.com/1639527/110131735-62399380-7dc2-11eb-9f33-3bf2720369e5.png)
 
 ### Proof of Work (PoW) Solve Iterations
 
-![Proof of Work (PoW) Solve Iterations](https://user-images.githubusercontent.com/1639527/110131484-1686ea00-7dc2-11eb-9a58-13bd0af63a10.png)
+![Proof of Work (PoW) Solve Iterations](https://user-images.githubusercontent.com/1639527/110131845-8006f880-7dc2-11eb-922f-55d7a312d839.png)
+
