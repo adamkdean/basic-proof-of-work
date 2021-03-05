@@ -18,7 +18,7 @@ while (true) {
 
   console.log(count, elapsed, nonce, hash)
 
-  if (hash.substr(0, difficulty) === pad('0', difficulty)) {
+  if (hash.substr(0, difficulty) === '0'.repeat(difficulty)) {
     console.log(`---------------------`)
     console.log(`diff : ${difficulty}`)
     console.log(`hash : ${hash}`)
@@ -27,12 +27,6 @@ while (true) {
     console.log(`---------------------`)
     break
   }
-}
-
-function pad(char, count) {
-  let s = ''
-  for (let i = 0; i < count; i++) s += char
-  return s
 }
 ```
 
