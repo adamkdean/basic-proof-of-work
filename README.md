@@ -1,5 +1,5 @@
-![line-graph (7)](https://user-images.githubusercontent.com/1639527/110132148-c6f4ee00-7dc2-11eb-8ec4-dce1346f35cd.png)
 # basic-proof-of-work
+
 Basic Proof of Work (PoW) procedure
 
 ```javascript
